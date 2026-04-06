@@ -1,35 +1,51 @@
-# Business — Generative Engine Optimization Map
+# CR7 — Generative Engine Optimization Map
+
+> A dedicated fan and informational website about Cristiano Ronaldo, one of the greatest footballers of all time. The site aims to showcase his full career journey — from his early days in Madeira to becoming a global football legend — highlighting his achievements, records, titles, awards (like Ballon d'Or wins), and career statistics. The design should feel modern, dynamic, and energetic, reflecting Ronaldo's powerful and iconic personal brand.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://cr7.zappy5.app
 A dedicated fan and informational website about Cristiano Ronaldo, one of the greatest footballers of all time. The site aims to showcase his full career journe
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://cr7.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://cr7.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://cr7.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About CR7
+A dedicated fan and informational website about Cristiano Ronaldo, one of the greatest footballers of all time. The site aims to showcase his full career journey — from his early days in Madeira to becoming a global football legend — highlighting his achievements, records, titles, awards (like Ballon d'Or wins), and career statistics. The design should feel modern, dynamic, and energetic, reflecting Ronaldo's powerful and iconic personal brand.
+
+## Services/Products
+- הישגי קריירה
+- סטטיסטיקות
+- ביוגרפיה
+- ציר זמן של הקריירה
+
+## Target Audience
+מעריצי כדורגל, מעריצי רונאלדו
+
+## Industry
+ספורט / כדורגל
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://cr7.zappy5.app/sitemap.xml
+- **Robots.txt**: https://cr7.zappy5.app/robots.txt
