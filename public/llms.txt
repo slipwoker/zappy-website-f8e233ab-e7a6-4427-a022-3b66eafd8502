@@ -1,6 +1,4 @@
-# CR7 — Generative Engine Optimization Map
-
-> A dedicated fan and informational website about Cristiano Ronaldo, one of the greatest footballers of all time. The site aims to showcase his full career journey — from his early days in Madeira to becoming a global football legend — highlighting his achievements, records, titles, awards (like Ballon d'Or wins), and career statistics. The design should feel modern, dynamic, and energetic, reflecting Ronaldo's powerful and iconic personal brand.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,21 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About CR7
-A dedicated fan and informational website about Cristiano Ronaldo, one of the greatest footballers of all time. The site aims to showcase his full career journey — from his early days in Madeira to becoming a global football legend — highlighting his achievements, records, titles, awards (like Ballon d'Or wins), and career statistics. The design should feel modern, dynamic, and energetic, reflecting Ronaldo's powerful and iconic personal brand.
-
-## Services/Products
-- הישגי קריירה
-- סטטיסטיקות
-- ביוגרפיה
-- ציר זמן של הקריירה
-
-## Target Audience
-מעריצי כדורגל, מעריצי רונאלדו
-
-## Industry
-ספורט / כדורגל
-
+## About Business
 ---
 
 # Additional Resources
